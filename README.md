@@ -6,13 +6,6 @@
 
 This simulation explores a business model centered on the design, construction, and delivery of prefabricated modern houses. The company will operate within the construction and real estate industry, initially targeting a mid-sized scale with operations localized to a specific region, with plans to scale nationally. The primary target market includes middle to upper-middle-income families, real estate developers, and investors. The business strategy emphasizes modern design, sustainable materials, cost-efficiency, and rapid construction times.
 
-```
-Industry: Construction and Real Estate
-Scale: Mid-sized enterprise with initial operations in one region, scalable nationally
-Target Market: Middle to upper-middle-income families, real estate developers, and investors
-Current Strategies: Focus on modern design, sustainable materials, cost-efficiency, and rapid construction
-```
-
 #### Simulation Parameters and Assumptions
 
 The initial investment required is estimated at $10 million, covering the setup of a manufacturing facility, procurement of equipment, and initial working capital. The factory is designed to have a production capacity of 50 houses per month. The cost structure includes fixed costs of $300,000 per month for factory maintenance, salaries, and utilities, alongside variable costs of $100,000 per house, encompassing materials, labor, and transportation. Each house is priced at $150,000. The market penetration strategy anticipates 20% capacity utilization in the first year, increasing to full capacity by the fourth year. Revenue is projected to grow at an annual rate of 15% post full-capacity achievement. The business environment is assumed to have moderate demand with steady growth and limited direct competition in the prefabricated housing market. Compliance with local building codes and incorporation of smart home technology and sustainable building practices are integral to the model.
