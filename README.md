@@ -42,6 +42,8 @@ The business model of designing, building, and transporting modern prefabricated
 [Wood Builder](https://chat.openai.com/g/g-EFy1XUX9P-wood-builder)
 <br>
 [Building Plan](https://chat.openai.com/g/g-csXtuEdzH-building-plan)
+<br>
+[Laptop Design](https://github.com/sourceduty/Laptop_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
