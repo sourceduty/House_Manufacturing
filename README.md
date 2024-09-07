@@ -31,6 +31,10 @@ The business model of designing, building, and transporting modern prefabricated
 ![House Factory](https://github.com/sourceduty/House_Manufacturing/assets/123030236/9a075306-60da-43d7-8724-fdd2144436cd)
 
 #
+
+![House Meme](https://github.com/user-attachments/assets/74698b21-3f2c-4a56-bbb4-b90589944809)
+
+#
 ### Related Links
 
 [House Design](https://github.com/sourceduty/House_Design)
